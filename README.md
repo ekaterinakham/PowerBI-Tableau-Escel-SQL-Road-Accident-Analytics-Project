@@ -1,2 +1,2 @@
-# PowerBI-Tableau-Escel-SQL-Road-Accident-Analytics-Project
+# PowerBI-Tableau-Excel-SQL-Road-Accident-Analytics-Project
 Data Analysis Portfolio Project
