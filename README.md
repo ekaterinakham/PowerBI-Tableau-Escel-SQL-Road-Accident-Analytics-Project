@@ -1,2 +1,1 @@
-# PowerBI-Tableau-Excel-SQL-Road-Accident-Analytics-Project
-Data Analysis Portfolio Project
+Project Overview: [Road Accident Analytics Project.docx](https://github.com/ekaterinakham/PowerBI-Tableau-Excel-SQL-Road-Accident-Analytics-Project/files/12841454/Road.Accident.Analytics.Project.docx)
